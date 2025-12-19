@@ -1,0 +1,12 @@
+node_modules/
+.cache/
+dist/
+build/
+.env
+*.log
+*.zip
+*.mp4
+*.mov
+*.webm
+*.exe
+*.pdf
