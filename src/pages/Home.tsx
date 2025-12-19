@@ -5,7 +5,7 @@ import Footer from "../components/Footer.tsx";
 import Showcase from "./Showcase.tsx";
 import "./Home.css";
 import robotImg from "../img/robot.png";
-import robo from "../img/robotvideo.mp4";
+import robo from "../img/robotvideo.webm";
 import particle from "../img/c2.webm";
 import {
   FaFileAlt,
