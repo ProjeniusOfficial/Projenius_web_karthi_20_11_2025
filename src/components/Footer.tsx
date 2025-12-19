@@ -47,6 +47,7 @@ const Footer: React.FC = () => {
           <div className="footer-contact">
             <FaPhoneAlt className="footer-icon" />
             <a href="tel:+918925450473">+91 89254 50473</a>
+            <a href="tel:+919025476322">+91 9025476322</a>
           </div>
 
           <div className="footer-social">
